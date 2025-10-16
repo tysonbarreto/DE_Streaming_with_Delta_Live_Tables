@@ -1,2 +1,0 @@
-# DE_Streaming_with_Delta_Live_Tables
-Databricks
